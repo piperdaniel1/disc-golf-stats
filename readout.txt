@@ -1,0 +1,133 @@
+==================== Sacramento River ====================
+Player: Vicki Piper
+Hole  3:   0  (avg = 0.0  )
+Hole  5:   0  (avg = 0.0  )
+Hole  1:   1  (avg = 1.0  )
+Hole 14:   1  (avg = 1.0  )
+Hole 11:   1  (avg = 1.0  )
+Hole 10:   1  (avg = 1.0  )
+Hole  8:   1  (avg = 1.0  )
+Hole  9:   1  (avg = 1.0  )
+Hole  4:   1  (avg = 1.0  )
+Hole  2:   1  (avg = 1.0  )
+Hole 12:   2  (avg = 2.0  )
+Hole 13:   2  (avg = 2.0  )
+Hole 16:   2  (avg = 2.0  )
+Hole  7:   2  (avg = 2.0  )
+Hole  6:   3  (avg = 3.0  )
+Hole 15:   3  (avg = 3.0  )
+Hole 18:   3  (avg = 3.0  )
+Hole 17:   6  (avg = 6.0  )
+Course Average: 1.72 
+
+Player: Daniel
+Hole  1:   1  (avg = 1.0  )
+Hole 14:   1  (avg = 1.0  )
+Hole 10:   1  (avg = 1.0  )
+Hole  8:   1  (avg = 1.0  )
+Hole  9:   1  (avg = 1.0  )
+Hole  4:   1  (avg = 1.0  )
+Hole  3:   1  (avg = 1.0  )
+Hole  5:   1  (avg = 1.0  )
+Hole  6:   2  (avg = 2.0  )
+Hole  7:   2  (avg = 2.0  )
+Hole 11:   2  (avg = 2.0  )
+Hole 12:   2  (avg = 2.0  )
+Hole 13:   2  (avg = 2.0  )
+Hole  2:   2  (avg = 2.0  )
+Hole 16:   2  (avg = 2.0  )
+Hole 18:   2  (avg = 2.0  )
+Hole 15:   4  (avg = 4.0  )
+Hole 17:   5  (avg = 5.0  )
+Course Average: 1.83 
+
+==================== Willamette Park ====================
+Player: Vicki Piper
+Hole 14:  -1  0  0 -1  0 -1  0  0  0  (avg = -0.33)
+Hole  6:   0  1  0  0  0  0  0  0  1  (avg = 0.22 )
+Hole  7:   1  0  1  0  0  0  0  0  0  (avg = 0.22 )
+Hole 17:   0  0  0  1  1  0  1  0  0  (avg = 0.33 )
+Hole 12:   0  0  1  0  0  1  0  1  0  (avg = 0.33 )
+Hole 16:   1  0  0  0  0  0  0  1  2  (avg = 0.44 )
+Hole 11:   2  0  0  0  1  0  0  1  0  (avg = 0.44 )
+Hole  2:   0  1  1  1  0  0  1  1  0  (avg = 0.56 )
+Hole 13:   0  1  0  1  0  1  1  0  1  (avg = 0.56 )
+Hole 15:   1  0  1  1  0  1  0  0  1  (avg = 0.56 )
+Hole  4:   2  0  0  0  1  1  0  1  1  (avg = 0.67 )
+Hole  8:   1  1  1  0  1  1  0  1  0  (avg = 0.67 )
+Hole 10:   2  1  0  1  1  0  1  1  0  (avg = 0.78 )
+Hole  1:   1  1  1  1  2  0  0  1  1  (avg = 0.89 )
+Hole  5:   1  0  1  1  1  1  1  1  1  (avg = 0.89 )
+Hole  9:   1  1  0  1  1  1  1  2  1  (avg = 1.0  )
+Hole  3:   1  1  1  2  2  1  2  0  0  (avg = 1.11 )
+Hole 18:   1  1  1  1  2  1  1  1  1  (avg = 1.11 )
+Course Average: 0.58 
+
+Player: Daniel
+Hole  4:   0  0  1  0  0  0  0  0  0  (avg = 0.11 )
+Hole  2:   2  0  0  0  0  0  0  0  0  (avg = 0.22 )
+Hole 16:   0  0  0  0  0  0  1  0  2  (avg = 0.33 )
+Hole  6:   0  1  0  0  1  0  1  0  1  (avg = 0.44 )
+Hole 12:   0  1  1  1  1  0  0  0  0  (avg = 0.44 )
+Hole 13:   0  0  1  1  1  0  1  0  0  (avg = 0.44 )
+Hole  7:   1  0  1  0  1  1  0  1  0  (avg = 0.56 )
+Hole 11:   1  1  0  1  1  0  0  0  1  (avg = 0.56 )
+Hole 14:   1  1  1  0  0  0  1  1  0  (avg = 0.56 )
+Hole 10:   1  2  0  1  1  0  0  0  1  (avg = 0.67 )
+Hole 15:   1  2  1  1  1  1  0  0  0  (avg = 0.78 )
+Hole  9:   0  2  0  2  0  1  0  1  2  (avg = 0.89 )
+Hole  8:   1  1  1  1  1  0  1  1  1  (avg = 0.89 )
+Hole 17:   1  1  0  1  1  1  1  2  0  (avg = 0.89 )
+Hole  3:   1  0  2  0  2  1  1  1  1  (avg = 1.0  )
+Hole 18:   1  1  1  1  1  1  2  2  0  (avg = 1.11 )
+Hole  5:   2  0  2  2  0  1  1  1  1  (avg = 1.11 )
+Hole  1:   1  2  2  1  2  1  0  1  1  (avg = 1.22 )
+Course Average: 0.68 
+
+==================== Oregon State Hospital Course ====================
+Player: Vicki Piper
+Hole  2:   0  0  0  0  0  0  0  0  0  0  0  1  0  1  0  0  (avg = 0.12 )
+Hole  4:   0  1  0  0  0  0  0  0 -1  1  1  0  0  0  0  0  (avg = 0.12 )
+Hole  7:   1  0  1  0  0  1  1  1  0  0  0  0  1  1  1  0  (avg = 0.5  )
+Hole  3:   1  1  1  0  1  1  1  1  0  0  1  1  0  0  1  0  (avg = 0.62 )
+Hole  5:   0  1  0  0  1  1  0  1  1  1  1  0  0  1  1  1  (avg = 0.62 )
+Hole  8:   1  1  1  1  1  1  1  0  1  1  1  2  0  0  1  1  (avg = 0.88 )
+Hole  6:   1  1  1  2  0  1  1  1  1  1  1  1  1  1  0  1  (avg = 0.94 )
+Hole  9:   1  2  1  1  2  0  1  0  1  0  1  2  1  0  1  1  (avg = 0.94 )
+Hole  1:   1  2  1  1  1  1  1  1  1  1  2  1  2  1  1  0  (avg = 1.12 )
+Course Average: 0.65 
+
+Player: Daniel
+Hole  4:   0  0  0  0  0  0  0  0  0 -1  0  0 -1 -1  2 -1  (avg = -0.12)
+Hole  2:   1  0  0  0  0 -1  0  0  1  0  0  1  1  1  0  0  (avg = 0.25 )
+Hole  3:   1  1  0  1  0  1  1  1  0  0  0  1  0  0  0  1  (avg = 0.5  )
+Hole  8:   1  1  1  0  0  2  1  0  0  2  1  0  0  0  0  0  (avg = 0.56 )
+Hole  5:   1  1  1  1  1  1  0  1  1  1  1  0  0  0  1  0  (avg = 0.69 )
+Hole  6:   1  1  1  1  0  1  2  1  1 -1  2  0  2  0  1  0  (avg = 0.81 )
+Hole  7:   1  1  1  1  0  1  1  1  1  0  0  0  1  1  1  2  (avg = 0.81 )
+Hole  9:   2  1  2  2  0  2  0  2  2  2  2  1  1  0  0  1  (avg = 1.25 )
+Hole  1:   2  2  2  2  3  3  1  1  2  1  1  1  2  1  2  1  (avg = 1.69 )
+Course Average: 0.72 
+
+==================== Disc Vikingholm ====================
+Player: Daniel
+Hole 15:   0  (avg = 0.0  )
+Hole  1:   1  (avg = 1.0  )
+Hole 16:   1  (avg = 1.0  )
+Hole  3:   1  (avg = 1.0  )
+Hole  4:   1  (avg = 1.0  )
+Hole  5:   1  (avg = 1.0  )
+Hole  6:   1  (avg = 1.0  )
+Hole  7:   1  (avg = 1.0  )
+Hole 17:   1  (avg = 1.0  )
+Hole 14:   1  (avg = 1.0  )
+Hole 13:   1  (avg = 1.0  )
+Hole 12:   1  (avg = 1.0  )
+Hole  9:   2  (avg = 2.0  )
+Hole 10:   2  (avg = 2.0  )
+Hole  2:   2  (avg = 2.0  )
+Hole 11:   2  (avg = 2.0  )
+Hole 18:   2  (avg = 2.0  )
+Hole  8:   3  (avg = 3.0  )
+Course Average: 1.33 
+
